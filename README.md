@@ -1,3 +1,8 @@
 # EDRO.Polymer
-Edro.Polymer is a project database.
-Database service was written by Tubmulur.
+# EDRO
+# EDRO.Polymer - Database server
+# EDRO.PolymerConstructor - Database client.
+
+Created by Andrey Aleksandrovich Chekmarev.
+
+
