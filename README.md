@@ -9,7 +9,6 @@ EDRO Object
                     [strAction] => /
                     [arrParams] => 
                 )
-
             [strDesign] => Array
                 (
                     [strBasePath] => /home/EDRO
@@ -19,11 +18,8 @@ EDRO Object
                             [arrElement] => Array
                                 (
                                 )
-
                         )
-
                 )
-
             [arrReality] => Array
                 (
                     [strBasePath] => /home/EDRO
@@ -34,17 +30,13 @@ EDRO Object
                                     [strObject] => FileList
                                     [strDesign] => FileList
                                 )
-
                             [Dj] => Array
                                 (
                                     [strObject] => FileList
                                     [strDesign] => FileList
                                 )
-
                         )
-
                 )
-
             [arrObject] => Array
                 (
                     [FileList] => Array
@@ -53,27 +45,22 @@ EDRO Object
                             [strAction] => strGetHTML
                             [strTarget] => /home/EDRO.PolymerConstructor/Main
                         )
-
                     [DjFileList] => Array
                         (
                             [strClassName] => FileList
                             [strAction] => strGetHTML
                             [strTarget] => /home/EDRO.PolymerConstructor/Main
                         )
-
                 )
-
             [strAction] => /home/EDRO.PolymerConstructor/Main
             [strMethod] => strHTML
             [bIsDynamic] => 
         )
-
     [objDesign] => Design Object
         (
             [strBasePath:Design:private] => /home/EDRO
             [strPath] => /home/EDRO/2.Design/.strHome/EDRO.PolymerConstructor/Main.php
         )
-
     [objReality] => Reality Object
         (
             [strBasePath] => /home/EDRO
@@ -81,7 +68,6 @@ EDRO Object
             [strRoleSignal] => 	Слушатель	Listener
             [strLang] => EN
         )
-
     [objObjects] => Objects Object
         (
             [strBasePath:Objects:private] => 
@@ -89,5 +75,4 @@ EDRO Object
             [strMethod] => strHTML
             [strParams] => 
         )
-
 )
